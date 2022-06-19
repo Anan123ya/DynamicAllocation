@@ -1,3 +1,4 @@
+//Code showing correct implementation of variable length linked list
 #include <bits/stdc++.h>
 
 using namespace std;
